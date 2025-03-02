@@ -15,9 +15,9 @@ Fii parte din schimbare – fă un fork acum și contribuie la un sistem Ubuntu 
 Instrucțiuni pentru utilizatori:
 Pentru a instala și rula scriptul pe Ubuntu, deschide un terminal și execută următoarele comenzi:
 
-sh
-Copy
-Edit
+Instrucțiuni pentru utilizatori:
+Pentru a instala și rula scriptul pe Ubuntu, deschide un terminal și execută următoarele comenzi:
+
 # Clonează repository-ul
 git clone https://github.com/MariusMihalache/ubuntu-setup-script.git
 
